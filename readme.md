@@ -10,8 +10,8 @@ Then add labels to your repository with the following pattern
 
 >  ### - Title
 
-> # == index of column
-> Title == column header
+>  # == index of column
+>  Title == column header
 
 The number represents the index of the column and the will be the column header
 
