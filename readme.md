@@ -29,3 +29,6 @@ To move a card with a commit message add "push GH-#" anywhere in your commit mes
 ## Notes
 * Milestones reordering will change the due date of your milestone. (currently the only way to order then)
 * commit message that "push GH-#" past the last column close the issue
+
+![board](http://f.cl.ly/items/1Y2b2K1f0n0S1U0X1g19/Image%202011-11-28%20at%2011.45.24%20AM.png)
+![milestones](http://f.cl.ly/items/311g0V3h191O2N250J3V/Image%202011-11-28%20at%2011.45.51%20AM.png)
