@@ -8,7 +8,7 @@ First create a label called
 
 Then add labels to your repository with the following pattern
 
->  ### - Title
+>  # - Title
 
 >  # == index of column
 >  Title == column header
