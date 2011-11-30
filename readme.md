@@ -16,7 +16,9 @@ Then add labels to your repository with the following pattern
 Example:
 
 >  1 - Ready
+
 >  2 - Working
+
 >  3 - Done
 
 The number represents the index of the column and the will be the column header
