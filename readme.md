@@ -1,6 +1,7 @@
 # Skipping stones
 
-Welcome to the test repo for my github powered task board
+How to set up YOUR repo
+
 
 First create a label called 
 
