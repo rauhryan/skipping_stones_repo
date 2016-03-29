@@ -2,7 +2,6 @@
 
 How to set up YOUR repo
 
-Open a PR
 
 First create a label called 
 
